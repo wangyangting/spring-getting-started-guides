@@ -17,6 +17,7 @@
     <modules>
         <module>spring-gs-consuming-rest</module>
         <module>spring-gs-rest-service</module>
+        <module>spring-gs-scheduling-tasks</module>
     </modules>
 
 </project>
